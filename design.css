@@ -1,0 +1,38 @@
+#input{
+
+   
+    text-align: center;
+    
+
+}
+#save{
+    margin-left: 4px;
+
+}
+table{
+    width: 400px;
+    margin: 2px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+ th{
+    text-align: left;
+    background-color:cadetblue;
+    color: white;
+}
+table,th ,tbody,td{
+    
+    border-collapse: collapse;
+}
+th,td{
+    padding: 12px 15px;
+    text-align: center;
+}
+tbody,tr{
+    border-bottom: 1px solid  #dddddd;
+}
+tbody,tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
