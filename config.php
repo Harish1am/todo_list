@@ -1,3 +1,3 @@
 <?php
-  $con=new mysqli("localhost","root","password","list");
+  $con=new mysqli("localhost","hari","password","list");
 ?>
