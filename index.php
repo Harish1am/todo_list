@@ -15,7 +15,7 @@
 <body background="river.jpg">
     
     <div id="input">
-        <h2>Make your bucket list!</h2>
+        <h2>Make your june bucket list!</h2>
     <form id="frm" >
     
     <input type="text" id="task"  name="task" placeholder="enter some check_list" class="task_input">
