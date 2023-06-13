@@ -9,7 +9,7 @@ $id=$con->insert_id;
 echo"<td>{$id}</td>";
 echo"<td> {$task}</td>";
 echo"<td ><button type='button' class='edit' data-id='{$id}'><a>edit</a></td>";
-echo"<td><button type='button' class='delete' data-id='{$id}'><a>delete g< /a></td>"
+echo"<td><button type='button' class='delete' data-id='{$id}'><a>delete</a></td>"
   
 
 
